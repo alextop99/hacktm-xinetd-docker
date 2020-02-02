@@ -1,4 +1,4 @@
-Script to run simple console applications in docker using xinetd
+Script to run simple console applications in docker using xinetd.
 
 1. Edit `share/run` and (replace) `share/chall.py`
 3. Compile and start your container
