@@ -14,5 +14,5 @@ docker run -d -p 60006:8888 \
 to connect
 
 ```
-nc localhost 60001
+nc localhost 60006
 ```
